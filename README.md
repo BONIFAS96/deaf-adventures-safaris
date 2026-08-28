@@ -82,23 +82,23 @@ My work included:
 
 ## 📸 Project Preview
 
-Here are some screenshots from the live website.
+Here are selected screenshots from the live website.
 
 ### 🏠 Homepage
 
-![Deaf Adventures Safaris Homepage](screenshots/homepage.png)
+![Deaf Adventures Safaris Homepage](https://github.com/BONIFAS96/deaf-adventures-safaris/blob/main/screenshots/Screenshot%20at%202026-08-28%2012-07-14.png?raw=true)
 
 ### 🦁 Safari Experiences
 
-![Safari Experiences](screenshots/safari-experiences.png)
+![Deaf Adventures Safaris Safari Experiences](https://github.com/BONIFAS96/deaf-adventures-safaris/blob/main/screenshots/Screenshot%20at%202026-08-28%2012-13-19.png?raw=true)
 
-### 🗺️ Destinations
+### 🗺️ Destinations & Website Content
 
-![Deaf Adventures Safaris Destinations](screenshots/destinations.png)
+![Deaf Adventures Safaris Destinations](https://github.com/BONIFAS96/deaf-adventures-safaris/blob/main/screenshots/Screenshot%20at%202026-08-28%2012-15-07.png?raw=true)
 
-### ℹ️ About Us
+### 🌐 Live Website
 
-![Deaf Adventures Safaris About Us](screenshots/about.png)
+🔗 **[Visit Deaf Adventures Safaris](https://deafadventuressafaris.co.tz/)**
 
 ### 🌐 Live Website
 
