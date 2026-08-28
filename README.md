@@ -82,11 +82,27 @@ My work included:
 
 ## 📸 Project Preview
 
-The live website can be visited here:
+Here are some screenshots from the live website.
 
-🔗 **https://deafadventuressafaris.co.tz/**
+### 🏠 Homepage
 
-Screenshots and additional project documentation may be added to this repository in the future.
+![Deaf Adventures Safaris Homepage](screenshots/homepage.png)
+
+### 🦁 Safari Experiences
+
+![Safari Experiences](screenshots/safari-experiences.png)
+
+### 🗺️ Destinations
+
+![Deaf Adventures Safaris Destinations](screenshots/destinations.png)
+
+### ℹ️ About Us
+
+![Deaf Adventures Safaris About Us](screenshots/about.png)
+
+### 🌐 Live Website
+
+🔗 **[Visit Deaf Adventures Safaris](https://deafadventuressafaris.co.tz/)**
 
 ---
 
